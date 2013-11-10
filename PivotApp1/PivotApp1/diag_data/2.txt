@@ -1,0 +1,32 @@
+COMMMON COLD
+ABOUT:
+The common cold (also known as nasopharyngitis, rhinopharyngitis, acute coryza, head cold, or simply a cold) is a viral infectious disease of the upper respiratory tract which primarily affects the nose.
+ Symptoms include coughing, sore throat, runny nose, sneezing, and fever which usually resolve in seven to ten days, with some symptoms lasting up to three weeks. Well over 200 viruses are implicated in the cause of the common cold; 
+the rhinoviruses are the most common.
+Upper respiratory tract infections are loosely divided by the areas they affect, with the common cold primarily affecting the nose, the throat (pharyngitis), and the sinuses (sinusitis), occasionally involving either or both eyes via conjunctivitis.
+ Symptoms are mostly due to the body's immune response to the infection rather than to tissue destruction by the viruses themselves. 
+The primary method of prevention is by hand washing with some evidence to support the effectiveness of wearing face masks.
+
+SIGNS AND SYMPTOMS:
+The typical symptoms of a cold include cough, runny nose, nasal congestion and a sore throat, sometimes accompanied by muscle ache, fatigue, headache, and loss of appetite.
+A sore throat is present in about 40% of the cases and a cough in about 50%, while muscle ache occurs in about half.
+In adults, a fever is generally not present but it is common in infants and young children.
+The cough is usually mild compared to that accompanying influenza.
+While a cough and a fever indicate a higher likelihood of influenza in adults, a great deal of similarity exists between these two conditions.
+A number of the viruses that cause the common cold may also result in asymptomatic infections.
+The color of the sputum or nasal secretion may vary from clear to yellow to green and does not indicate the class of agent causing the infection.
+
+DIAGNOSIS:
+The distinction between different viral upper respiratory tract infections is loosely based on the location of symptoms with the common cold affecting primarily the nose, pharyngitis the throat, and bronchitis the lungs.
+However there can be significant overlap and multiple areas can be affected.
+The common cold is frequently defined as nasal inflammation with varying amount of throat inflammation.
+Self-diagnosis is frequent.
+Isolation of the actual viral agent involved is rarely performed,and it is generally not possible to identify the virus type through symptoms.
+
+PREVENTION:
+The only possibly useful ways to reduce the spread of cold viruses are physical measures such as hand washing and face masks; in the healthcare environment, gowns and disposable gloves are also used.
+Isolation, e.g. quarantine, is not possible as the disease is so widespread and symptoms are non-specific.
+Vaccination has proved difficult as there are so many viruses involved and they mutate rapidly.
+Creation of a broadly effective vaccine is thus highly improbable.
+
+DRUGS:

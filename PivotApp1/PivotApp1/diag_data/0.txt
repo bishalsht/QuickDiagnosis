@@ -1,0 +1,35 @@
+TYPHOID
+ABOUT: 
+Typhoid is a common worldwide bacterial disease transmitted by the ingestion of food or water contaminated with the feces of an infected person, which contain the bacterium Salmonella enterica enterica, serovar Typhi.
+
+SIGNS AND SYMPTOMS:
+
+During 1st week:
+
+Temprarture rises slowly with bradycardia (Faget sign), malaise, headache, and cough.
+
+During 2nd week:
+
+Rose spots appear on the lower chest and abdomen in around a third of patients. 
+There are rhonchi in lung bases.
+
+During 3rd week:
+
+Intestinal hemorrhage due to bleeding in congested Peyer's patches; this can be very serious but is usually not fatal.
+Encephatilis
+Metastatic abscesses, cholecystitis, endocarditis and osteitis
+
+PREVENTION:
+Sanitation and hygiene are the critical measures that can be taken to prevent typhoid. 
+Typhoid does not affect animals, and therefore, transmission is only from human to human.
+Typhoid can only spread in environments where human feces or urine are able to come into contact with food or drinking water. 
+Careful food preparation and washing of hands are crucial to prevent typhoid.
+
+DRUGS:
+bactrim DS oral
+cipro oral
+ciprofloaxcin oral
+amoxicilin oral
+bactrim oral
+amphicillin oral
+amphicillin sodium 4

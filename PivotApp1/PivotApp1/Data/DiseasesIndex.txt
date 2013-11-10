@@ -1,0 +1,12 @@
+typhoid
+tuberculosis
+common cold
+diarrhoea
+cholera
+allergy
+asthma
+diptheria
+malaria
+rabies
+scabies
+

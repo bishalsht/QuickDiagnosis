@@ -1,0 +1,29 @@
+DIPTHERIA
+ABOUT:
+Diphtheria is an upper respiratory tract illness caused by Corynebacterium diphtheriae, a facultative anaerobic, Gram-positive bacterium.
+It is characterized by sore throat, low fever, and an adherent membrane (a pseudomembrane) on the tonsils, pharynx, and/or nasal cavity.
+A milder form of diphtheria can be restricted to the skin. Less common consequences include myocarditis (about 20% of cases)and peripheral neuropathy.
+Diphtheria is an infectious disease spread by direct physical contact or breathing the aerosolized secretions of infected individuals.
+
+SIGNS AND SYMPTOMS:
+The symptoms of diphtheria usually begin two to seven days after infection. Symptoms of diphtheria include fever of 38°C (100.4°F) or above,
+chills, fatigue, bluish skin coloration, sore throat, hoarseness.
+cough, headache, difficulty swallowing, painful swallowing.
+difficulty breathing, rapid breathing, foul-smelling bloodstained nasal discharge and lymphadenopathy.
+Symptoms can also include cardiac arrhythmias, myocarditis, and cranial and peripheral nerve palsies. 
+
+TREATMENT:
+The disease may remain manageable, but in more severe cases, lymph nodes in the neck may swell, and breathing and swallowing will be more difficult.
+People in this stage should seek immediate medical attention, as obstruction in the throat may require intubation or a tracheotomy.
+Abnormal cardiac rhythms can occur early in the course of the illness or weeks later, and can lead to heart failure.
+Diphtheria can also cause paralysis in the eye, neck, throat, or respiratory muscles.
+Patients with severe cases will be put in a hospital intensive care unit and be given a diphtheria antitoxin.
+Since antitoxin does not neutralize toxin that is already bound to tissues, delaying its administration is associated with an increase in mortality risk.
+Therefore, the decision to administer diphtheria antitoxin is based on clinical diagnosis, and should not await laboratory confirmation.
+Antibiotics have not been demonstrated to affect healing of local infection in diphtheria patients treated with antitoxin.
+Antibiotics are used in patients or carriers to eradicate C. diphtheriae and prevent its transmission to others.
+
+DRUGS:
+Metronidazole
+Erythromycin (orally or by injection) for 14 days (40 mg/kg per day with a maximum of 2 g/d).
+Procaine penicillin G given intramuscularly for 14 days.

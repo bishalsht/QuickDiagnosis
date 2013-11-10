@@ -1,0 +1,25 @@
+ALLERGY:
+ABOUT:
+An allergy is a hypersensitivity disorder of the immune system.
+Allergic reactions occur when a person's immune system reacts to normally harmless substances in the environment.
+A substance that causes a reaction is called an allergen. 
+These reactions are acquired, predictable, and rapid.
+Allergy is one of four forms of hypersensitivity and is formally called type I (or immediate) hypersensitivity.
+Allergic reactions are distinctive because of excessive activation of certain white blood cells called mast cells and basophils by a type of antibody called Immunoglobulin E (IgE). 
+This reaction results in an inflammatory response which can range from uncomfortable to dangerous.
+
+SIGNS AND SYMPTOMS:
+Many allergens such as dust or pollen are airborne particles.
+In these cases, symptoms arise in areas in contact with air, such as eyes, nose, and lungs. 
+For instance, allergic rhinitis, also known as hay fever, causes irritation of the nose, sneezing, itching, and redness of the eyes.
+Inhaled allergens can also lead to asthmatic symptoms,increased production of mucus in the lungs, shortness of breath (dyspnea), coughing and wheezing.
+
+CAUSES:
+Risk factors for allergy can be placed in two general categories, namely host and environmental factors.
+Host factors include heredity, gender, race, and age, with heredity being by far the most significant.
+ However, there have been recent increases in the incidence of allergic disorders that cannot be explained by genetic factors alone.
+Four major environmental candidates are alterations in exposure to infectious diseases during early childhood, environmental pollution, allergen levels, and dietary changes.
+
+DRUGS:
+allergy shots
+antihistamines

@@ -1,0 +1,144 @@
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.dll
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.pdb
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\PivotApp1_Debug_AnyCPU.xap
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\App.g.cs
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\MainPage.g.cs
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.g.resources
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.Resources.AppResources.resources
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csproj.GenerateResource.Cache
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.pdb
+c:\users\bishalkumar\documents\visual studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\XapCacheFile.xml
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.add.rest.png
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.delete.rest.png
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\AddSymptom.g.cs
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csprojResolveAssemblyReference.cache
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\Results.g.cs
+C:\Users\BishalKumar\Documents\Visual Studio 2012\Projects\PivotApp1\PivotApp1\obj\Debug\moreinfo.g.cs
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\ApplicationIcon.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.add.rest.png
+F:\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.delete.rest.png
+F:\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.pdb
+F:\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml
+F:\PivotApp1\PivotApp1\Bin\Debug\Properties\WMAppManifest.xml
+F:\PivotApp1\PivotApp1\Bin\Debug\PivotApp1_Debug_AnyCPU.xap
+F:\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Expression.Interactions.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\System.Windows.Interactivity.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csprojResolveAssemblyReference.cache
+F:\PivotApp1\PivotApp1\obj\Debug\App.g.cs
+F:\PivotApp1\PivotApp1\obj\Debug\AddSymptom.g.cs
+F:\PivotApp1\PivotApp1\obj\Debug\MainPage.g.cs
+F:\PivotApp1\PivotApp1\obj\Debug\moreinfo.g.cs
+F:\PivotApp1\PivotApp1\obj\Debug\Results.g.cs
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.g.resources
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.Resources.AppResources.resources
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csproj.GenerateResource.Cache
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll
+F:\PivotApp1\PivotApp1\obj\Debug\PivotApp1.pdb
+F:\PivotApp1\PivotApp1\obj\Debug\XapCacheFile.xml
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.add.rest.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Pics\appbar.delete.rest.png
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.pdb
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\PivotApp1_Debug_AnyCPU.xap
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csprojResolveAssemblyReference.cache
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\App.g.cs
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\AddSymptom.g.cs
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\MainPage.g.cs
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\moreinfo.g.cs
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\Results.g.cs
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.g.resources
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.Resources.AppResources.resources
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.csproj.GenerateResource.Cache
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\PivotApp1.pdb
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\XapCacheFile.xml
+C:\Users\AWE\Desktop\finallinked\PivotApp1\PivotApp1\obj\Debug\WindowsPhoneControl1.g.cs

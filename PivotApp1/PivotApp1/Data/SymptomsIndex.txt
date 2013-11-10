@@ -1,0 +1,14 @@
+﻿fever
+sneezing
+difficult breathing
+shortness of breath
+dehydration
+night sweat
+headache
+loss of apetite
+loose motion
+nausea
+rashes
+hallucination
+vommiting
+chest congestion

@@ -1,0 +1,32 @@
+TUBERCULOSIS
+ABOUT:
+Tuberculosis, MTB, or TB (short for tubercle bacillus) is a common, and in many cases lethal, infectious disease caused by various strains of mycobacteria, usually Mycobacterium tuberculosis.
+Tuberculosis typically attacks the lungs, but can also affect other parts of the body.
+ It is spread through the air when people who have an active TB infection cough, sneeze, or otherwise transmit respiratory fluids through the air.
+Most infections are asymptomatic and latent, but about one in ten latent infections eventually progresses to active disease which, if left untreated, kills more than 50% of those so infected.
+
+SIGNS AND SYMPTOMS:
+Tuberculosis may infect any part of the body, but most commonly occurs in the lungs (known as pulmonary tuberculosis).
+Extrapulmonary TB occurs when tuberculosis develops outside of the lungs, although extrapulmonary TB may coexist with pulmonary TB as well.
+General signs and symptoms include fever, chills, night sweats, loss of appetite, weight loss, and fatigue.
+Significant finger clubbing may also occur.
+
+PREVEVTION:
+Tuberculosis prevention and control efforts primarily rely on the vaccination of infants and the detection and appropriate treatment of active cases.
+The World Health Organization has achieved some success with improved treatment regimens, and a small decrease in case numbers.
+
+VACCINES:
+The only currently available vaccine as of 2011 is bacillus Calmette–Guérin (BCG) which, while it is effective against disseminated disease in childhood, confers inconsistent protection against contracting pulmonary TB.
+ Nevertheless, it is the most widely used vaccine worldwide, with more than 90% of all children being vaccinated.
+However, the immunity it induces decreases after about ten years.
+As tuberculosis is uncommon in most of Canada, the United Kingdom, and the United States, BCG is only administered to people at high risk.
+Part of the reasoning arguing against the use of the vaccine is that it makes the tuberculin skin test falsely positive, and therefore, of no use in screening.
+A number of new vaccines are currently in development.
+
+DRUGS:
+isoniaziad
+rifampicin
+pyrazinamide
+ethambutol
+streptomycin
+moxifloxacin

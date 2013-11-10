@@ -1,0 +1,45 @@
+CHOLERA
+ABOUT:
+Cholera is an infection of the small intestine caused by the bacterium Vibrio cholerae. 
+The main symptoms are watery diarrhea and vomiting. 
+Transmission occurs primarily by drinking water or eating food that has been contaminated by the feces (waste product) of an infected person, including one with no apparent symptoms. Severe cholera, requiring hospitalization, results from the accumulation of about a million bacterial cells within the body.
+[1]These cells can be picked up from unsafe drinking water or from eating oysters that have ingested cholera-carrying zooplankton.
+[2] The severity of the diarrhea and vomiting can lead to rapid dehydration and electrolyte imbalance, and death in some cases.
+
+SIGNS AND SYMPTOMS:
+The primary symptoms of cholera are profuse diarrhea and vomiting of clear fluid.
+[1] These symptoms usually start suddenly, half a day to five days after ingestion of the bacteria.
+[2] The diarrhea is frequently described as "rice water" in nature and may have a fishy odor.
+[3] An untreated person with cholera may produce 10 to 20 litres (3 to 5 US gal) of diarrhea a day[3] with fatal results. 
+For every symptomatic person, 3 to 100 people get the infection but remain asymptomatic.
+[4] Cholera has been nicknamed the "blue death" because a victim's skin turns bluish-gray from extreme loss of fluids.
+
+Typical "rice water" diarrhea
+[5]If the severe diarrhea is not treated with intravenous rehydration, it can result in life-threatening dehydration and electrolyte imbalances.
+[6]Cholera victims can be depleted of 18L of fluids in one day, leading to severe dehydration.
+The typical symptoms of dehydration include low blood pressure, poor skin turgor (wrinkled hands), sunken eyes, and a rapid pulse.
+
+DIAGNOSIS:
+A rapid dip-stick test is available to determine the presence of V. cholerae.
+In those samples that test positive, further testing should be done to determine antibiotic resistance.
+In epidemic situations, a clinical diagnosis may be made by taking a patient history and doing a brief examination. 
+Treatment is usually started without or before confirmation by laboratory analysis.
+Stool and swab samples collected in the acute stage of the disease, before antibiotics have been administered, are the most useful specimens for laboratory diagnosis. 
+If an epidemic of cholera is suspected, the most common causative agent is V. 
+cholerae O1. If V. cholerae serogroup O1 is not isolated, the laboratory should test for V. 
+cholerae O139. However, if neither of these organisms is isolated, it is necessary to send stool specimens to a reference laboratory. 
+Infection with V. cholerae O139 should be reported and handled in the same manner as that caused by V. cholerae O1. 
+The associated diarrheal illness should be referred to as cholera and must be reported in the United States.
+
+PREVENTION:
+Sterilization: Proper disposal and treatment of infected fecal waste water produced by cholera victims and all contaminated materials (e.g. clothing, bedding, etc.) are essential. 
+All materials that come in contact with cholera patients should be sanitized by washing in hot water, using chlorine bleach if possible.
+ Hands that touch cholera patients or their clothing, bedding, etc., should be thoroughly cleaned and disinfected with chlorinated water or other effective antimicrobial agents.
+Sewage: antibacterial treatment of general sewage by chlorine, ozone, ultraviolet light or other effective treatment before it enters the waterways or underground water supplies helps prevent undiagnosed patients from inadvertently spreading the disease.
+
+DRUGS(TO BE TAKEN BY A SUITABLE PRESCRIPTION AUTHORIZED BY MEDICAL PRACTIONER):
+1)tetracycline
+2)cholamphenicol
+3)sulfaguanidine
+4)erythromycin(for children and pregnant women)
+5)oroflaxin
